@@ -1,0 +1,6 @@
+1. During each chapter I can hatch a single digimon.
+2. If a digimon faints, I need to de-digivolve him to his earliest state, convert him back into data, and then I can re-hatch him.
+3. I cannot use a digimon in the same chapter that it fainted in.
+4. I cannot have a digimon more digivolved than the boss fight.
+5. I cannot de-digivolve to raise ABI, I can only digivolve upwards. I can only de-digivolve for rule #2.
+6. If I have no digimon left, I lose.
